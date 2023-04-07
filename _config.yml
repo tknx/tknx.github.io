@@ -1,7 +1,7 @@
 # Site settings
 title: Tarun Nagpal
 email: tarun@nagpal.com
-description: Physician, Attorney, Management Consultant, Hobbyist Author<br />Oh My!
+description: Physician, Attorney, Management Consultant, Hobbyist Author <br />Oh My!
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
