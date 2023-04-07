@@ -1,8 +1,10 @@
 ---
 layout: post
-title: Tortor dolore feugiat elementum magna
-description: Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.
+title: The Thousand Kingdoms
+description: Magic returns to the world and 
 image: pic02.jpg
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Long ago, magic began to weaken. In an act of desperation, the Emperor of the known world sealed it away. But now those seals are failing and magic returns to the world. Ella, a physics grad student, becomes a pivotal figure in the return of magic.
+
+A [web serial being published on Royal Road](https://www.royalroad.com/fiction/49755/the-thousand-kingdoms-interregnum). Now on Volume 2.

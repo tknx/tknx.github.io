@@ -1,8 +1,16 @@
 ---
 layout: post
-title: Augue eleifend aliquet sed condimentum
-description: Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.
+title: Will We Never Meet Again?
+description: What does it mean to atone? How can someone be forgiven and is restitution even possible?
 image: pic01.jpg
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+   *Yuugen: a profound, mysterious sense of the beauty of the universe… and the sad beauty of human suffering.*
+
+What does it mean to atone? How can someone be forgiven and is restitution even possible?
+
+A mistake that changes lives forces Tajima Mika out from her comfortable existence as a senior at Asahikawa Higashi High. The disfavored child of an important father, she has coasted on their family reputation and shallow friendships.
+
+But the new transfer student changes everything. Mika is caught in an unfolding tragedy, all the while a deep and abiding love develops between them.
+
+Find it on Kindle Unlimited, coming in May 2023!

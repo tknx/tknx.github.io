@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Magna primis lobortis sed ullamcorper
-description: Aliquam ut ex ut augue consectetur interdum. Donec hendrerit imperdiet. Mauris eleifend fringilla nullam aenean mi ligula.
+title: Mars (Coming Soon)
+description: Ares Sikranth, reknowned general, thought he was done with the Lunar Court's intrigue. He was wrong
 image: pic03.jpg
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Coming in 2024, a story about Earth, Mars, the Moon and an old fool that should have stayed far, far away from politics
